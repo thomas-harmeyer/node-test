@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thomas-harmeyer/node-test/issues"
   },
-  "homepage": "https://github.com/thomas-harmeyer/node-test#readme"
+  "homepage": "https://github.com/thomas-harmeyer/node-test#readme",
+  "engines": {
+    "node": "12.16.1"
+  }
 }
