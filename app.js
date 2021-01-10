@@ -4,7 +4,7 @@ app.get("/", (req, res) => {
     res.send("hello world");
 });
 
-const port = preocess.env.port || 3000;
+const port = process.env.port || 3000;
 app.listen(port, () => {
     console.log("hit");
 });
